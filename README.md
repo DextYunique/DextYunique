@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DextYunique
+- 👋 Hi, I’m Gypsy Rover
 - 👀 I’m interested in app development
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on idk yet
